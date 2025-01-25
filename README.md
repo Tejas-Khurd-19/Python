@@ -1,4 +1,3 @@
-# Python
-Basic to advanced Python.
-This course code source is refer from code with harry and updated according to me you can update according to you.
-You can give suggestion on any update needed in code source. 
+This repository serves as the ultimate resource for learning Python, taking you on a journey from basic to advanced concepts.
+The content in this repository is inspired by the "Code with Harry" Python tutorials and has been enhanced and updated with additional insights, optimizations, and practical examples. 
+You are encouraged to explore, improve, and customize the content as per your needs
