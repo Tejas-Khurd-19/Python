@@ -1,0 +1,4 @@
+Tejas is learning Python
+I am a second line
+This is amazing
+Python is good language
